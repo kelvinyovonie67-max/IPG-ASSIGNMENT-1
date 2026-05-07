@@ -1,0 +1,6 @@
+print("welcome to kelvin enterprise")
+print("please enter your name")
+name=input()
+print("enter the item you want to purchase")
+item=input("laptop")
+print("welcome,",name +"! you have purchased" + item)
